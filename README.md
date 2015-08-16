@@ -1,4 +1,5 @@
 # SmartIRLib Arduino Library
+[![Build Status](https://travis-ci.org/OpenIR/SmartIRLib.svg?branch=master)](https://travis-ci.org/OpenIR/SmartIRLib)
 
 ## Version - 0.1b
 
